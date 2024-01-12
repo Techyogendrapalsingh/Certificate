@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tangsa&family=Nova+Square&family=Orbitron:wght@600&family=Pacifico&family=Poppins&family=Rubik+Iso&family=Smooch+Sans:wght@200;400&display=swap');
+
+*{
+    margin: 10px;
+}
+.fom{  
+}
+.container{
+     /* background-color: aquamarine;  */
+      background-image: url(images/COLORFIL.avif); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: default;
+    width: auto;
+    height: 120vh;
+}
+.cert h1{  
+    font-family: 'Playfair Display', serif;
+ font-size: 46px;
+ text-align: center;
+ 
+}
+.cert p{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    margin-top: 5vh;  
+}
+.text04{
+    margin-top: 5vh;  
+}
+.text h1{
+    color: blue;
+    font-family: 'Moon Dance', cursive;
+}
+.icon{
+    font-size: 50px;
+    color: goldenrod;
+    justify-content: left;
+}
+.sign{
+    margin-top: 15vh;
+}
